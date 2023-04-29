@@ -1,0 +1,15 @@
+D:\Sharp\hw2\obj\Debug\net7.0\hw2.csproj.AssemblyReference.cache
+D:\Sharp\hw2\obj\Debug\net7.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp\hw2\obj\Debug\net7.0\hw2.AssemblyInfoInputs.cache
+D:\Sharp\hw2\obj\Debug\net7.0\hw2.AssemblyInfo.cs
+D:\Sharp\hw2\obj\Debug\net7.0\hw2.csproj.CoreCompileInputs.cache
+D:\Sharp\hw2\bin\Debug\net7.0\hw2.exe
+D:\Sharp\hw2\bin\Debug\net7.0\hw2.deps.json
+D:\Sharp\hw2\bin\Debug\net7.0\hw2.runtimeconfig.json
+D:\Sharp\hw2\bin\Debug\net7.0\hw2.dll
+D:\Sharp\hw2\bin\Debug\net7.0\hw2.pdb
+D:\Sharp\hw2\obj\Debug\net7.0\hw2.dll
+D:\Sharp\hw2\obj\Debug\net7.0\refint\hw2.dll
+D:\Sharp\hw2\obj\Debug\net7.0\hw2.pdb
+D:\Sharp\hw2\obj\Debug\net7.0\hw2.genruntimeconfig.cache
+D:\Sharp\hw2\obj\Debug\net7.0\ref\hw2.dll
